@@ -1,4 +1,3 @@
-Read me kavalli ante edi paste chai 
 # Breast Cancer Detection using Machine Learning
 
 This project focuses on detecting breast cancer using a basic machine learning approach.
